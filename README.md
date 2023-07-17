@@ -49,6 +49,11 @@ multiplication, and division.
 6. Use of popular web fonts for improved typography.
 
 7. Integration of Font Awesome icons for enhanced aesthetics.
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f6e2a60-00a1-467f-9289-44cde16b2d35/deploy-status)](https://app.netlify.com/sites/jsprojects12-calculator/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
