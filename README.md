@@ -16,7 +16,7 @@ A simple and user-friendly web-based calculator built using HTML, CSS, and JavaS
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Calculator/
+     https://rashwanthashok.github.io/Calculator/
     
 ## Getting Started
 
